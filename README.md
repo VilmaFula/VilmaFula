@@ -22,36 +22,6 @@ Minha base sólida em C, Shell Script, Linux e a experiência na **42Luanda** re
 
 ---
 
-## 💻 Meus Projetos em Destaque
-
-Aqui estão projetos que demonstram minhas habilidades em arquitetura de APIs e persistência de dados.
-
-| Projeto | Tecnologia Principal | Foco |
-| :--- | :--- | :--- |
-| **API de Autenticação** | Java / Spring Boot / JWT | Segurança, Registro/Login, PostgreSQL |
-| **API de Tarefas (CRUD)** | Java / Spring Boot / PostgreSQL | CRUD completo, Validações, Documentação Swagger |
-| **API de Viagens** | Node.js / Express / Prisma | Rotas, Modelagem de Dados, Lógica de Negócio |
-
-<p align="center">
-  <a href="https://[SEUNOMEDEUSUARIO].github.io/[NOMEDOREPOSITORIO]" target="_blank">
-    <strong>✨ VISITE MEU PORTFÓLIO AO VIVO ✨</strong>
-  </a>
-</p>
-
----
-
-## 📬 Contato
-
-Se você tem uma oportunidade que se encaixa no meu perfil ou deseja conversar sobre tecnologia, me envie uma mensagem.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/[SEU_LINKEDIN_AQUI]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=244947854364&text=Ol%C3%A1%2C%20encontrei%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20discutir%20uma%20oportunidade." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
 
 <br>
 <p align="right"><sub>© 2025 Vilma Fula Domingos | Desenvolvedora Back-End</sub></p>
