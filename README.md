@@ -6,7 +6,7 @@
   ---
   
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgresql,mongodb,prisma,git,linux,github,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgresql,prisma,git,linux,github" />
   </a>
 </div>
 
@@ -14,11 +14,7 @@
 
 ## 🌟 Sobre Mim e Visão Estratégica
 
-Sou uma desenvolvedora backend em ascensão, focada em criar soluções eficientes e escaláveis com **Java + Spring Boot** e **Node.js + Prisma**. Trabalho para desenvolver APIs bem estruturadas, seguras e preparadas para uso real.
-
-Minha base sólida em C, Shell Script, Linux e a experiência na **42Luanda** reforçam minha capacidade de aplicar raciocínio lógico e resolver problemas complexos.
-
-> **DIFERENCIAL CHAVE:** Minha experiência como gestora de projeto, incluindo a liderança da equipe que conquistou o **2º lugar no NASA Space Apps**, me permite aplicar uma **visão estratégica** na construção do Back-End, garantindo que o código esteja alinhado com objetivos de negócio e prazos.
+Sou uma desenvolvedora backend focada em criar soluções eficientes e escaláveis. Trabalho com Java + Spring Boot, desenvolvendo APIs bem estruturadas, seguras e preparadas para uso real. Também tenho experiência com Node.js (Express + Prisma) e base sólida em C, Linux, Shell Script e Redes (CCNA). Passei pela piscina da 42Luanda, onde aprimorei minha lógica, algoritmos e capacidade de resolver problemas complexos sob pressão — habilidades essenciais para desafios de competição e desenvolvimento rápido de soluções. Participei de hackathons nacionais e internacionais, incluindo o NASA Space Apps, onde minha equipa conquistou o 2º lugar.
 
 ---
 
