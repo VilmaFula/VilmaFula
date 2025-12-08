@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
   <h1 align="center">👋 Olá! Eu sou a Vilma Fula Domingos</h1>
-  <p align="center">Desenvolvedora Back-End | Estratégia & Execução</p>
+  <p align="center">Desenvolvedora Back-End o</p>
   
   ---
   
