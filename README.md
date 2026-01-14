@@ -6,8 +6,7 @@
   ---
   
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,docker,git,linux,github,mysql,sqlite,bash" alt="Minhas Tecnologias" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,spring,c,docker,git,linux,github,mysql,sqlite,bash,nodejs,express,postgres,prisma" alt="Minhas Tecnologias" />  </a>
 </div>
 
 <br>
