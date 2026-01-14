@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
   <h1 align="center">👋 Olá! Eu sou a Vilma Fula Domingos</h1>
-  <p align="center">Desenvolvedora Back-End</p>
+  <p align="center">Desenvolvedora Back-End| Devops</p>
   
   ---
   
@@ -20,4 +20,4 @@ Sou uma desenvolvedora backend focada em criar soluções eficientes e escaláve
 
 
 <br>
-<p align="right"><sub>© 2025 Vilma Fula Domingos | Desenvolvedora Back-End</sub></p>
+<p align="right"><sub>© 2025 Vilma Fula Domingos | Desenvolvedora Back-End ! DevOps</sub></p>
